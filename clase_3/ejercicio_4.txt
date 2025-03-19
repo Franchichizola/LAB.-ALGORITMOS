@@ -1,0 +1,4 @@
+0.2 + 0.1 = 0.30000000000000004
+3 * 0.1 = 0.30000000000000004
+
+#no era lo esperado, supongo que el error pudo venir de una conversion de binario a decimal.
