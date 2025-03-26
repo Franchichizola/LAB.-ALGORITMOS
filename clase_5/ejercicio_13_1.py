@@ -1,5 +1,4 @@
-colores_alien = ["verde"]
-for color in colores_alien:
-    if color == "rojo":
-        print("ganaste 5 puntos :V")
+color_alien = ["verde"]
+if color_alien == "verde":
+    print("ganaste 5 puntos :V")
 
